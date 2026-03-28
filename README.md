@@ -1,0 +1,2 @@
+# Combouserpass
+Script termux
